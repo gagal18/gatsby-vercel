@@ -1,1 +1,1 @@
-Bojan's Gatsby portfolio
+GatsbyStarter with Tailwind (boilerplate)
